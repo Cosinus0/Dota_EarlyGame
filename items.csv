@@ -1,0 +1,15 @@
+NAME,GROUP,BSTR,BAGI,BINT,BHPR,BMPR,BATTD,BARM,RDARM,BMS,BATTS,BMR,BSPD,GOLD
+Healing Salve,Consumables,0,0,0,50,0,0,0,0,0,0,0,0,110
+Clarity,Consumables,0,0,0,0,4.5,0,0,0,0,0,0,0,50
+Enchanted Mango,Consumables,0,0,0,0.6,0,0,0,0,0,0,0,0,70
+Tango,Consumables,0,0,0,7,0,0,0,0,0,0,0,0,90
+Faerie Fire,Consumables,0,0,0,0,0,3,0,0,0,0,0,0,125
+Iron Branch,Attributes,1,1,1,0,0,0,3,0,0,0,0,0,0,50
+Mantle of Intelligence,Attributes,0,0,3,0,0,0,0,0,0,0,0,0,0,145
+Gauntlets of Strength,Attributes,3,0,0,0,0,0,0,0,0,0,0,0,0,145
+Slippers of Agility,Attributes,0,3,0,0,0,0,0,0,0,0,0,0,0,145
+Belt of Strength,Attributes,6,0,0,0,0,0,0,0,0,0,0,0,0,450
+Robe of the Magi,Attributes,0,0,6,0,0,0,0,0,0,0,0,0,0,450
+Band of Elvenskin,Attributes,0,6,0,0,0,0,0,0,0,0,0,0,0,450
+Circlet,Attributes,2,2,2,0,0,0,0,0,0,0,0,0,0,155
+Crown,Attributes,4,4,4,0,0,0,0,0,0,0,0,0,0,155
